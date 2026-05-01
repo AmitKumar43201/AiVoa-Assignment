@@ -65,7 +65,7 @@ export const formInfoSlice = createSlice({
       })
     },
 
-    // 🔹 4. Reset
+    //4. Reset
     resetForm: () => initialFormState
   }
 })
