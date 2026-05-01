@@ -1,0 +1,33 @@
+Log a virtual meeting with Dr. Anil Sharma. Attendees were John and Lisa from 
+our team. We covered cardiovascular risk and statin therapy. I shared the 
+product overview doc and the dosage guide. Gave him samples of Lipitrol and 
+Cardivex. He was neutral overall. Outcome was that he asked for more data on 
+long term side effects. Follow up by sending a detailed email with product 
+comparisons.
+
+Log a call with Dr. Kevin Marsh. It was just me on the call. We talked about 
+statin therapy and cholesterol management. I shared the clinical trial brochure 
+and the product overview doc. Gave him samples of Lipitrol and Nitropex. He was 
+neutral, had some concerns about pricing. Outcome was that he wanted to compare 
+with current alternatives. Follow up by scheduling a demo next week.
+
+Log an email interaction with Dr. Meera Iyer. No attendees, it was a written 
+follow up from last week's call. Topics were cholesterol management and 
+long term statin use. I attached the product overview doc and the dosage guide. 
+No samples provided since it was an email. She responded with a positive tone, 
+showed interest in Lipitrol. Outcome was that she requested a one on one meeting. 
+Follow up by scheduling a demo next week.
+
+Log a meeting interaction with Dr. Arjun Sharma. Attendees were Priya and Rohan. 
+Topics discussed were hypertension management and beta blocker efficacy. 
+Materials shared were the clinical trial brochure and product overview doc. 
+Samples distributed were Cardivex and Tensorel. Sentiment was neutral. 
+Outcome was that he showed interest but wanted more data on side effects. 
+Follow up by sending detailed safety report and scheduling a call next week.
+
+Add Neha as attendee, remove the product overview doc from materials shared, 
+and change the sentiment to positive for Dr. Arjun Sharma's interaction.
+
+Get information about all the HCPs to whom I shared clinical trial brochure
+
+Get all information about Dr. Anil Sharma
